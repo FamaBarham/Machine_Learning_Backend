@@ -1,8 +1,5 @@
 Flask==2.0.3
-flask_restful
-pickle
-json
-flask_cors
+flask_restfulflask_cors
 wordcloud
 transformers
 googletrans

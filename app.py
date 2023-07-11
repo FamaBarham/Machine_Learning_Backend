@@ -1,7 +1,5 @@
 from flask import Flask, jsonify
 from flask_restful import Api, Resource,request
-import pickle
-import json
 from model import generate_Cloud,comptage
 from flask_cors import CORS
 
