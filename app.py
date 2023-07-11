@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from flask_restful import Api, Resource,request
-from model import generate_Cloud,comptage
+from model import generate_Cloud
 from flask_cors import CORS
 
 app = Flask(__name__)
