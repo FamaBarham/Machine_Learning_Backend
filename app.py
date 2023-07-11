@@ -13,15 +13,15 @@ def prepare_worldCloud():
     datas = generate_Cloud(data)
     return datas
 
-@app.route('/sentimentAnalysis', methods=['POST'])
-def prepare_sentimentAnalysis():
-    data = request.get_json()['reponses']
-    datas = comptage(data)
-    return datas
+# @app.route('/sentimentAnalysis', methods=['POST'])
+# def prepare_sentimentAnalysis():
+#     data = request.get_json()['reponses']
+#     datas = comptage(data)
+#     return datas
 
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
 
 
 
