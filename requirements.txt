@@ -1,0 +1,10 @@
+flask 
+flask_restful
+pickle
+json
+flask_cors
+wordcloud
+transformers
+googletrans
+pprint
+
