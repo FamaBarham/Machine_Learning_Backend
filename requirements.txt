@@ -5,3 +5,6 @@ wordcloud
 transformers
 googletrans
 gunicorn
+tensorflow==2.0.0
+torch==1.9.0
+
