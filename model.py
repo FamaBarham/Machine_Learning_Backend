@@ -7,7 +7,7 @@ from pprint import pprint
 
 # sentiment_pipeline = pipeline(model="j-hartmann/sentiment-roberta-large-english-3-classes")
 # # init the Google API translator
-# translator = Translator()
+translator = Translator()
 
 # def comptage(data):
 #     nliste=0
