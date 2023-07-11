@@ -1,7 +1,7 @@
 Flask==2.0.3
-flask_restfulflask_cors
+Flask-RESTful
+Flask-Cors
 wordcloud
 transformers
 googletrans
 pprint
-
